@@ -1,0 +1,147 @@
+{
+    "basic_info": {
+      "description_header": "¡Hola",
+      "description": "Mi nombre es José Lema. Soy un ingeniero de software full-stack. Soy de ascendencia latinoamericana. Mi lenguaje de codificación favorito es Javascript porque da vida a las páginas de HTML. Disfruto viendo videos en Youtube, desde tutoriales hasta podcasts y transmisiones en vivo, ¡hay tanto contenido valioso para ver! Tengo buena memoria para temas importantes y apoyo la creatividad en el lugar de trabajo.",
+      "section_name": {
+        "about": "Acerca de mi",
+        "projects": "Proyectos",
+        "skills":  "Habilidades Tecnicas",
+        "experience": "Experiencia Laboral"
+      }
+    },
+    "projects": [
+      {
+        "title": "Riddler's Guessing Game",
+        "startDate": "2021",
+        "description": "Un juego de adivinanzas de números en el que un jugador tiene 5 intentos para adivinar un número del 1 al 100. Cada adivinanza enviada desbloqueará una pista sobre qué tan cerca o lejos está la adivinanza de la respuesta. Hay una función de pista que proporciona 3 pistas adicionales.",
+        "images": [
+          "images/portfolio/riddler-guessing-game/p1.png",
+          "images/portfolio/riddler-guessing-game/p2.png"
+        ],
+        "url": "https://mauilema.github.io/guessing-game/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Fullstack Spirits",
+        "startDate": "2021",
+        "description": "Una aplicación web de comercio electrónico. Los visitantes pueden navegar y comprar con o sin cuenta. Los usuarios comunes pueden ver su historial de pedidos. Los administradores son usuarios elevados con acciones autorizadas.",
+        "images": [
+          "images/portfolio/Fullstack-Spirits/p1.png",
+          "images/portfolio/Fullstack-Spirits/p3.png"
+        ],
+        "url": "https://graceshopper-4-amigos.herokuapp.com/",
+        "gitHubUrl": "https://github.com/The-4-Amigos/Graceshopper",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "City Diary",
+        "startDate": "2022",
+        "description": "Una aplicación móvil que permite a los usuarios grabar audio, anclarlo a su geolocalización y cargarlo en el almacenamiento en la nube de Firebase. El audio puede ser privado o público, este último esta accesible a todos los usuarios.",
+        "images": [
+          "images/portfolio/cityDiary/p1.png",
+          "images/portfolio/cityDiary/p2.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=GZ4RHsHUgW8",
+        "gitHubUrl": "https://github.com/HCJM/City-DiaryV2",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Fullstack Academy",
+        "title": "Aprendiz de Ingeniero de Software",
+        "years": "06.07.2021 - 12.21.2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "PERN Stack",
+          "React Native",
+          "Sequelize",
+          "Insomnia",
+          "Postico",
+          "Redux",
+          "Expo",
+          "Firebase",
+          "Mocha",
+          "Chai",
+          "Babel",
+          "Webpack",
+          "Git",
+          "GitHub"
+        ]
+      },
+      {
+        "company": "BSG TPV VoiceLog",
+        "title": "Operador de servicio al cliente",
+        "years": "04.01.2019 - 09.01.2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Comunicación efectiva",
+          "Multifuncional",
+          "Soluciónes creativas de problemas",
+          "Colaborador de equipo"
+        ]
+      },
+      {
+        "company": "Intuitive Solutions Inc",
+        "title": "Representante de Servicio al Cliente",
+        "years": "04.01.2017 - 03.30.2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "con iniciativa",
+          "Integridad",
+          "Halto desempeño",
+          "Determinación"
+        ]
+      }
+    ]
+
+  }
