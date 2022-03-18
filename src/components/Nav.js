@@ -87,9 +87,9 @@ class Nav extends Component {
               </a>
         
               <div className="navbar-item has-dropdown is-hoverable">
-                <a className="navbar-link">
+                <div className="navbar-link">
                   Let's Connect
-                </a>
+                </div>
         
                 <div className="navbar-dropdown is-size-4">
                   <a className="navbar-item" href="mailto:srjorgemaciel2002@gmail.com" target="_blank">
