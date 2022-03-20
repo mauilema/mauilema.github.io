@@ -13,7 +13,7 @@ class ProjectDetailsModal extends Component {
       var description = this.props.data.description;
       var url = this.props.data.url;
       var gitHubUrl = this.props.data.gitHubUrl;
-      var gitHub = "GitHub URL";
+      var gitHub = "GitHub";
       var privateRepoMsg = "N/A Fullstack Academy Private Repo"
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
