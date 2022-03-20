@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "name": "Jose Lema",
+      "titles": [ "Front-end Developer", "Full-stack Software Engineer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mauilema",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/josemlema/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "Jose-Lema.png",
+      "polaroidPin": "polaroidPin.PNG"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "95"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Mocha",
+          "class": "devicon-mocha-plain",
+          "level": "95"
+        },
+        {
+          "name": "Babel",
+          "class": "devicon-babel-plain",
+          "level": "95"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }

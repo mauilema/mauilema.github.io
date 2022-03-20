@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Hello",
-      "description": "My name is Jose Lema. I'm a full-stack Software Engineer. I'm of Latin American decent. My favorite coding language is Javascript because it gives life to plain HTML pages. I enjoy watching videos on Youtube from tutorials to podcasts to livestreams, there is so much valuable content to watch! I have a good memory for important topics and embrace creativity in the workplace.",
+      "description_header": "¡Hola",
+      "description": "Mi nombre es José Lema. Soy un ingeniero de software full-stack. Soy de ascendencia latinoamericana. Mi lenguaje de codificación favorito es Javascript porque da vida a las páginas de HTML. Disfruto viendo videos en Youtube, desde tutoriales hasta podcasts y transmisiones en vivo, ¡hay tanto contenido valioso para ver! Tengo buena memoria para temas importantes y apoyo la creatividad en el lugar de trabajo.",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Work Experience"
+        "about": "Acerca de mi",
+        "projects": "Proyectos",
+        "skills":  "Habilidades Tecnicas",
+        "experience": "Experiencia Laboral"
       }
     },
     "projects": [
       {
         "title": "Riddler's Guessing Game",
         "startDate": "2021",
-        "description": "A number guessing game where a player has 5 attempts to guess a number from 1 to 100. Every guess submitted will unlock a clue for how close or far the guess is from the answer. There is a hint feature that provides 3 additional clues.",
+        "description": "Un juego de adivinanzas de números en el que un jugador tiene 5 intentos para adivinar un número del 1 al 100. Cada adivinanza enviada desbloqueará una pista sobre qué tan cerca o lejos está la adivinanza de la respuesta. Hay una función de pista que proporciona 3 pistas adicionales.",
         "images": [
           "images/portfolio/riddler-guessing-game/p1.png",
           "images/portfolio/riddler-guessing-game/p2.png"
@@ -37,7 +37,7 @@
       {
         "title": "Fullstack Spirits",
         "startDate": "2021",
-        "description": "An E-commerce web application. Visitors can browse and buy with or without an account. Ordinary users can see their order history. Admins are elevated users with authorized actions.",
+        "description": "Una aplicación web de comercio electrónico. Los visitantes pueden navegar y comprar con o sin cuenta. Los usuarios comunes pueden ver su historial de pedidos. Los administradores son usuarios elevados con acciones autorizadas.",
         "images": [
           "images/portfolio/Fullstack-Spirits/p1.png",
           "images/portfolio/Fullstack-Spirits/p3.png"
@@ -62,7 +62,7 @@
       {
         "title": "City Diary",
         "startDate": "2022",
-        "description": "A mobile application that allows users to record audio, pin it to their geolocation and upload it to firebase cloud storage. Audio may be private or public, the latter is accessible to all users.",
+        "description": "Una aplicación móvil que permite a los usuarios grabar audio, anclarlo a su geolocalización y cargarlo en el almacenamiento en la nube de Firebase. El audio puede ser privado o público, este último esta accesible a todos los usuarios.",
         "images": [
           "images/portfolio/cityDiary/p1.png",
           "images/portfolio/cityDiary/p2.png"
@@ -92,7 +92,7 @@
     "experience": [
       {
         "company": "Fullstack Academy",
-        "title": "Full-stack Software Engineer Trainee",
+        "title": "Aprendiz de Ingeniero de Software",
         "years": "06.07.2021 - 12.21.2021",
         "mainTech": [
           ""
@@ -116,31 +116,32 @@
       },
       {
         "company": "BSG TPV VoiceLog",
-        "title": "Customer Service Operator",
+        "title": "Operador de servicio al cliente",
         "years": "04.01.2019 - 09.01.2021",
         "mainTech": [
           ""
         ],
         "technologies": [
-          "Effective-Communication",
-          "Multi-tasking",
-          "Creative problem-solving",
-          "Team-player"
+          "Comunicación efectiva",
+          "Multifuncional",
+          "Soluciónes creativas de problemas",
+          "Colaborador de equipo"
         ]
       },
       {
         "company": "Intuitive Solutions Inc",
-        "title": "Customer Service Representative",
+        "title": "Representante de Servicio al Cliente",
         "years": "04.01.2017 - 03.30.2019",
         "mainTech": [
           ""
         ],
         "technologies": [
-          "Self-starter",
-          "Integrity",
-          "High-Performer",
-          "Determination"
+          "con iniciativa",
+          "Integridad",
+          "Halto desempeño",
+          "Determinación"
         ]
       }
     ]
+
   }
