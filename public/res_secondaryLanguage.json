@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Hola",
-      "description": "Mi nombre es José Lema. Soy un ingeniero de software full-stack. Soy de ascendencia latinoamericana. Mi lenguaje de codificación favorito es Javascript porque da vida a las páginas de HTML. Disfruto viendo videos en Youtube, desde tutoriales hasta podcasts y transmisiones en vivo, ¡hay tanto contenido valioso para ver! Tengo buena memoria para temas importantes y apoyo la creatividad en el lugar de trabajo.",
+      "description": "Mi nombre es José. Soy un ingeniero de software altamente capacitado especializado en desarrollo web y móvil. Mi caja de herramientas técnicas incluye ES6 JavaScript, React, Express, Node.js, HTML, CSS y Git, junto con experiencia en Java, Spring Boot, PostgreSQL, React Native, AWS y Firebase. He tenido el placer de contribuir en proyectos emocionantes como City Diary, una aplicación de React Native que permite a los usuarios grabar y compartir audio basado en su ubicación, y Fullstack Spirits, un sitio web de comercio electrónico amigable con el usuario desarrollado en React. Durante mi pasantía como desarrollador de software en Thoughtworks, perfeccioné mis habilidades en Pair Programming, TDD y Clean Code mientras construía una aplicación web full-stack. Con un certificado en Desarrollo Web Fullstack de Fullstack Academy y una certificación AWS Certified Cloud Practitioner, estoy comprometido a brindar soluciones de primera calidad. ¡Creemos algo increíble juntos en el mundo de la ingeniería de software!",
       "section_name": {
         "about": "Acerca de mi",
         "projects": "Proyectos",
