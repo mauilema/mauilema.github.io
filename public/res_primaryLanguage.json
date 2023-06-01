@@ -91,6 +91,39 @@
     ],
     "experience": [
       {
+        "company": "Self Employed",
+        "title": "Software Developer Tutor",
+        "years": "11.01.2022 - 02.01.2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "MongoDB",
+          "Amazon Web Services (AWS)",
+          "Pair Programming",
+          "Effective Communication",
+          "Java",
+          "Spring Boot"
+        ]
+      },
+      {
+        "company": "Thoughtworks",
+        "title": "Software Developer Intern",
+        "years": "06.01.2022 - 08.01.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Java",
+          "Test Driver Development",
+          "React",
+          "Continuous Integration",
+          "Clean Code",
+          "Consulting",
+          "Pair Programming"
+        ]
+      },
+      {
         "company": "Fullstack Academy",
         "title": "Full-stack Software Engineer Trainee",
         "years": "06.07.2021 - 12.21.2021",
@@ -112,34 +145,6 @@
           "Webpack",
           "Git",
           "GitHub"
-        ]
-      },
-      {
-        "company": "BSG TPV VoiceLog",
-        "title": "Customer Service Operator",
-        "years": "04.01.2019 - 09.01.2021",
-        "mainTech": [
-          ""
-        ],
-        "technologies": [
-          "Effective-Communication",
-          "Multi-tasking",
-          "Creative problem-solving",
-          "Team-player"
-        ]
-      },
-      {
-        "company": "Intuitive Solutions Inc",
-        "title": "Customer Service Representative",
-        "years": "04.01.2017 - 03.30.2019",
-        "mainTech": [
-          ""
-        ],
-        "technologies": [
-          "Self-starter",
-          "Integrity",
-          "High-Performer",
-          "Determination"
         ]
       }
     ]
