@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Switch from "react-switch";
-import file from "../../src/JoseLemaResume.pdf"
+import file from "../../src/JoseLemaResumeNew.pdf"
 import "bulma/css/bulma.min.css";
 
 class Nav extends Component {
