@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Hola",
-      "description": "Mi nombre es José Lema. Soy un ingeniero de software full-stack. Soy de ascendencia latinoamericana. Mi lenguaje de codificación favorito es Javascript porque da vida a las páginas de HTML. Disfruto viendo videos en Youtube, desde tutoriales hasta podcasts y transmisiones en vivo, ¡hay tanto contenido valioso para ver! Tengo buena memoria para temas importantes y apoyo la creatividad en el lugar de trabajo.",
+      "description": "Mi nombre es José. Soy un ingeniero de software altamente capacitado especializado en desarrollo web y móvil. Mi caja de herramientas técnicas incluye ES6 JavaScript, React, Express, Node.js, HTML, CSS y Git, junto con experiencia en Java, Spring Boot, PostgreSQL, React Native, AWS y Firebase. He tenido el placer de contribuir en proyectos emocionantes como City Diary, una aplicación de React Native que permite a los usuarios grabar y compartir audio basado en su ubicación, y Fullstack Spirits, un sitio web de comercio electrónico amigable con el usuario desarrollado en React. Durante mi pasantía como desarrollador de software en Thoughtworks, perfeccioné mis habilidades en Pair Programming, TDD y Clean Code mientras construía una aplicación web full-stack. Con un certificado en Desarrollo Web Fullstack de Fullstack Academy y una certificación AWS Certified Cloud Practitioner, estoy comprometido a brindar soluciones de primera calidad. ¡Creemos algo increíble juntos en el mundo de la ingeniería de software!",
       "section_name": {
         "about": "Acerca de mi",
         "projects": "Proyectos",
@@ -43,7 +43,7 @@
           "images/portfolio/Fullstack-Spirits/p3.png"
         ],
         "url": "https://graceshopper-4-amigos.herokuapp.com/",
-        "gitHubUrl": "https://github.com/The-4-Amigos/Graceshopper",
+        "gitHubUrl": "https://github.com/mauilema/GraceshopperV2",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -91,8 +91,41 @@
     ],
     "experience": [
       {
+        "company": "Trabajo por cuenta propia",
+        "title": "Tutor de Ingeniería de Software",
+        "years": "11.01.2022 - 02.01.2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "MongoDB",
+          "Amazon Web Services (AWS)",
+          "Pair Programming",
+          "Comunicación efectiva",
+          "Java",
+          "Spring Boot"
+        ]
+      },
+      {
+        "company": "Thoughtworks",
+        "title": "Puesto de Interno en Ingeniería de Software",
+        "years": "06.01.2022 - 08.01.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Java",
+          "Test Driver Development",
+          "React",
+          "Integración continua",
+          "Código limpio",
+          "Consultante",
+          "Programación en pareja"
+        ]
+      },
+      {
         "company": "Fullstack Academy",
-        "title": "Aprendiz de Ingeniero de Software",
+        "title": "Aprendiz de Ingeniería de Software",
         "years": "06.07.2021 - 12.21.2021",
         "mainTech": [
           ""
@@ -112,34 +145,6 @@
           "Webpack",
           "Git",
           "GitHub"
-        ]
-      },
-      {
-        "company": "BSG TPV VoiceLog",
-        "title": "Operador de servicio al cliente",
-        "years": "04.01.2019 - 09.01.2021",
-        "mainTech": [
-          ""
-        ],
-        "technologies": [
-          "Comunicación efectiva",
-          "Multifuncional",
-          "Soluciónes creativas de problemas",
-          "Colaborador de equipo"
-        ]
-      },
-      {
-        "company": "Intuitive Solutions Inc",
-        "title": "Representante de Servicio al Cliente",
-        "years": "04.01.2017 - 03.30.2019",
-        "mainTech": [
-          ""
-        ],
-        "technologies": [
-          "con iniciativa",
-          "Integridad",
-          "Halto desempeño",
-          "Determinación"
         ]
       }
     ]
